@@ -10,4 +10,6 @@
 使用方法：输入影视网站网站或分享码，点击搜索就可以
 
 下载地址：https://wwa.lanzous.com/i5NSQlt28j
+
+下载二维码
 ![下载二维码](https://upload-images.jianshu.io/upload_images/25404350-339106f477df6193.png)
