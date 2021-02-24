@@ -9,4 +9,4 @@
       4、可以下载
 使用方法：输入影视网站网站或分享码，点击搜索就可以
 
-下载地址：https://wwa.lanzous.com/i5NSQlt28jer
+下载地址：https://wwa.lanzous.com/i5NSQlt28j
