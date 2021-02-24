@@ -10,4 +10,4 @@
 使用方法：输入影视网站网站或分享码，点击搜索就可以
 
 下载地址：https://wwa.lanzous.com/i5NSQlt28j
-[https://github.com/usa20201103/Wxplayer/blob/main/image/download.png]
+![下载二维码](https://github.com/usa20201103/Wxplayer/blob/main/image/download.png)
